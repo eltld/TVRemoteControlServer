@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RemoteControl</string>
+    <string name="action_settings">Settings</string>
+    <string name="format_uninstall_ok">%s has been uninstalled!</string>
+    <string name="format_uninstall_failed">%s uninstall failure!</string>
+    <string name="btn_start_service">Start</string>
+    <string name="btn_stop_service">Stop</string>
+    <string name="status_running">Running</string>
+    <string name="status_stopped">Not started</string>
+    <string name="device_name">Device Name: %s</string>
+    <string name="version_info">Version: %s</string>
+    
+</resources>

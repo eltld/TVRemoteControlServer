@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">手机遥控器</string>
+    <string name="action_settings">Settings</string>
+    <string name="format_uninstall_ok">%s 已经卸载!</string>
+    <string name="format_uninstall_failed">%s 卸载失败!</string>
+    <string name="btn_start_service">启动服务</string>
+    <string name="btn_stop_service">停止服务</string>
+    <string name="status_running">运行中...</string>
+    <string name="status_stopped">未启动</string>
+    <string name="device_name">设备名称：%s</string>
+    <string name="version_info">当前版本：%s</string>
+    
+</resources>

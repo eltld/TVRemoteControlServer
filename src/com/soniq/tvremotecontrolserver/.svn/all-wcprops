@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/soniq/!svn/ver/370/android/SoniqTVRemoteControlServer/src/com/soniq/tvremotecontrolserver
+END
+RemoteControlServiceReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/soniq/!svn/ver/323/android/SoniqTVRemoteControlServer/src/com/soniq/tvremotecontrolserver/RemoteControlServiceReceiver.java
+END
+MainService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/soniq/!svn/ver/323/android/SoniqTVRemoteControlServer/src/com/soniq/tvremotecontrolserver/MainService.java
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/soniq/!svn/ver/324/android/SoniqTVRemoteControlServer/src/com/soniq/tvremotecontrolserver/MainActivity.java
+END
+WAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/soniq/!svn/ver/185/android/SoniqTVRemoteControlServer/src/com/soniq/tvremotecontrolserver/WAPI.java
+END
+MainData.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/soniq/!svn/ver/370/android/SoniqTVRemoteControlServer/src/com/soniq/tvremotecontrolserver/MainData.java
+END
+TaskInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/soniq/!svn/ver/185/android/SoniqTVRemoteControlServer/src/com/soniq/tvremotecontrolserver/TaskInfo.java
+END
+DownloadThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/soniq/!svn/ver/370/android/SoniqTVRemoteControlServer/src/com/soniq/tvremotecontrolserver/DownloadThread.java
+END
+ClientUpgrade.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/soniq/!svn/ver/323/android/SoniqTVRemoteControlServer/src/com/soniq/tvremotecontrolserver/ClientUpgrade.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/soniq/!svn/ver/385/android/SoniqTVRemoteControlServer/res/drawable-hdpi
+END
+ic_launcher.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/soniq/!svn/ver/385/android/SoniqTVRemoteControlServer/res/drawable-hdpi/ic_launcher.png
+END
+btn_service_start.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/soniq/!svn/ver/375/android/SoniqTVRemoteControlServer/res/drawable-hdpi/btn_service_start.png
+END
+service_running.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/soniq/!svn/ver/375/android/SoniqTVRemoteControlServer/res/drawable-hdpi/service_running.png
+END
+btn_service_start_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/soniq/!svn/ver/375/android/SoniqTVRemoteControlServer/res/drawable-hdpi/btn_service_start_selector.xml
+END
+btn_service_start_on.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/soniq/!svn/ver/375/android/SoniqTVRemoteControlServer/res/drawable-hdpi/btn_service_start_on.png
+END
+bg.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/soniq/!svn/ver/385/android/SoniqTVRemoteControlServer/res/drawable-hdpi/bg.jpg
+END
+btn_service_stop_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/soniq/!svn/ver/375/android/SoniqTVRemoteControlServer/res/drawable-hdpi/btn_service_stop_selector.xml
+END
+btn_service_stop_on.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/soniq/!svn/ver/375/android/SoniqTVRemoteControlServer/res/drawable-hdpi/btn_service_stop_on.png
+END
+btn_service_stop.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/soniq/!svn/ver/375/android/SoniqTVRemoteControlServer/res/drawable-hdpi/btn_service_stop.png
+END
+service_stopped.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/soniq/!svn/ver/375/android/SoniqTVRemoteControlServer/res/drawable-hdpi/service_stopped.png
+END

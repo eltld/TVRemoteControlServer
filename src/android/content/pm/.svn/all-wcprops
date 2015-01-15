@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/soniq/!svn/ver/109/android/SoniqTVRemoteControlServer/src/android/content/pm
+END
+IPackageDeleteObserver.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/soniq/!svn/ver/109/android/SoniqTVRemoteControlServer/src/android/content/pm/IPackageDeleteObserver.aidl
+END
+IPackageInstallObserver.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/soniq/!svn/ver/109/android/SoniqTVRemoteControlServer/src/android/content/pm/IPackageInstallObserver.aidl
+END

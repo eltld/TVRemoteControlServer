@@ -1,0 +1,55 @@
+10
+
+dir
+385
+https://114.112.48.148/svn/soniq/android/SoniqTVRemoteControlServer/res
+https://114.112.48.148/svn/soniq
+
+
+
+2014-08-18T03:17:23.378875Z
+385
+zhaohong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+622ea983-2abf-f54b-a409-6da46711c242
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+drawable-zh-hdpi
+dir
+
+layout
+dir
+
+menu
+dir
+
+values
+dir
+
+values-zh-rCN
+dir
+
